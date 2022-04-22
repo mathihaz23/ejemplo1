@@ -1,0 +1,16 @@
+body{background-color: antiquewhite;}
+
+h1{color: red;font-size: 1000%;}
+p{color:    black;font-size: 200%;}
+
+ul{color: bisque;}
+
+img{size: 30%;}
+
+h3{color: black;font-size: 200%;}
+
+
+
+ body{background-image: url(22.jpg);background-repeat: repeat;background-size: 100px;}
+
+ label{border-color: blue;color: black;font-size: large;font-family: Georgia, 'Times New Roman', Times, serif;}

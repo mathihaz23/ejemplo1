@@ -1,0 +1,49 @@
+
+
+
+html {
+    background-color: goldenrod;
+    align-items: center;
+    );
+}
+
+li {text-align: center;font-size: xx-large;}
+
+h1{ -webkit-user-select: none !important;
+    -moz-user-select: none !important;
+    -ms-user-select: none !important;
+    user-select: none !important;
+    color: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    text-shadow: 0px 370px 1.5px rgb(0, 0, 0);
+    text-align: center;}
+
+
+body{background: url(../img/ff.jpg);}
+
+.contenedor {
+    width: 80%;
+    margin: 0 auto;
+}
+
+img {
+    width: 40%;
+    height: 40%;
+    margin: 1.4%;
+    margin-left: 15%;
+    font-size: 40px;
+    padding: 10%;
+    align-items: center;
+    border-style: ridge;
+    border-width: 50px;
+    border-color: silver;
+    border-left-color: aliceblue;
+    box-shadow: gold;
+    transition: 1s;
+    filter: grayscale(100%);
+}
+
+img:hover {
+    filter: grayscale(0%);
+    transition: 1s;
+}
